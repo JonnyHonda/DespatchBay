@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<apiuser></apiuser>
+	<apikey></apikey>
+	<endpoints>
+		<shipping>http://api.despatchbaypro.com/soap/v11/shipping.php</shipping>
+		<addressing>http://api.despatchbaypro.com/soap/v11/addressing.php</addressing>
+		<tracking>http://api.despatchbaypro.com/soap/v11/tracking.php</tracking>
+	</endpoints>
+</configuration>
