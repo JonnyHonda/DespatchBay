@@ -118,7 +118,7 @@ public partial class MainWindow : Window
 
 	protected void onBook(object sender, EventArgs e)
 	{
-		if (this.addressListBox.ActiveText == null)
+		if (addressListBox.ActiveText == null)
 		{
 			MessageBox("You must select an address");
 		}
